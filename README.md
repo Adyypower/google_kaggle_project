@@ -170,4 +170,6 @@ Passionate about agentic systems, RAG models, and practical AI engineering.
 
 ⭐ If you liked this project
 
+
 Please give a ⭐ on GitHub and connect with me!
+<img width="1826" height="722" alt="Screenshot 2025-12-01 110611" src="https://github.com/user-attachments/assets/cc809c21-295f-4159-8eb9-e81537c5ab73" />
